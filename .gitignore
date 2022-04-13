@@ -1,6 +1,6 @@
 node_modules
-redemption/package-lock.json
-redemption/package.json
+*/package-lock.json
+*/package.json
 .env
-redemption/artifacts/
-redemption/cache/
+*/artifacts/
+*/cache/
