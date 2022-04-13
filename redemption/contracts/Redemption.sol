@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.7;
 
 contract Chance {
     function balanceOf(address, uint256) public view returns (uint256) {}
